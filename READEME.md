@@ -14,7 +14,7 @@
 
 ```npm i style-loader css-loader```
 
-``npm i cross-env```
+```npm i cross-env```
 
 ```npm i ts-node```
 
